@@ -1,0 +1,1636 @@
+[08-Mar-2023 15:29:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:02 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:02 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:13 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:14 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:14 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:17 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:17 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:17 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:17 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:22 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:22 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:22 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:22 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:24 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:24 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:24 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:24 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:38 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:38 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:38 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:38 Europe/Berlin] PHP Fatal error:  Uncaught Exception: file (../App/Views/pages_error500.html) not found in C:\xampp\htdocs\Login_system\Core\View.php:18
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::Render('pages_error500....')
+#1 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#2 {main}
+  thrown in C:\xampp\htdocs\Login_system\Core\View.php on line 18
+[08-Mar-2023 15:29:59 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:59 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "pages_error500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('pages_error500....')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('pages_error500....')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('pages_error500....')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('pages_error500....')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('pages_error500....', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('pages_error500....')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:29:59 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:29:59 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "pages_error500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('pages_error500....')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('pages_error500....')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('pages_error500....')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('pages_error500....')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('pages_error500....', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('pages_error500....')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:30:00 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:00 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "pages_error500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('pages_error500....')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('pages_error500....')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('pages_error500....')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('pages_error500....')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('pages_error500....', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('pages_error500....')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:30:00 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:00 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "pages_error500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('pages_error500....')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('pages_error500....')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('pages_error500....')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('pages_error500....')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('pages_error500....', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('pages_error500....')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:30:01 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:01 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "pages_error500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('pages_error500....')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('pages_error500....')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('pages_error500....')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('pages_error500....')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('pages_error500....', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('pages_error500....')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:30:01 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:01 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "pages_error500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('pages_error500....')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('pages_error500....')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('pages_error500....')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('pages_error500....')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('pages_error500....', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('pages_error500....')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:30:01 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:01 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "pages_error500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('pages_error500....')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('pages_error500....')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('pages_error500....')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('pages_error500....')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('pages_error500....', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('pages_error500....')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:30:01 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:01 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "pages_error500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('pages_error500....')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('pages_error500....')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('pages_error500....')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('pages_error500....')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('pages_error500....', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('pages_error500....')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:30:01 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:01 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "pages_error500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('pages_error500....')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('pages_error500....')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('pages_error500....')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('pages_error500....')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('pages_error500....', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('pages_error500....')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:30:27 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:32 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:38 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:30:41 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:31:25 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:31:26 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:31:26 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:31:32 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:31:45 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:32:37 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:32:37 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "400.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('400.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('400.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('400.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('400.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('400.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('400.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:32:38 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:32:38 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "400.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('400.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('400.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('400.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('400.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('400.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('400.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:32:39 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:32:39 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "400.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('400.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('400.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('400.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('400.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('400.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('400.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:32:39 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:32:39 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "400.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('400.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('400.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('400.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('400.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('400.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('400.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:33:04 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:33:04 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "0.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('0.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('0.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('0.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('0.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('0.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('0.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:33:05 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:33:05 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "0.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('0.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('0.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('0.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('0.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('0.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('0.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:33:05 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:33:05 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "0.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('0.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('0.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('0.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('0.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('0.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('0.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:33:05 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:33:05 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "0.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('0.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('0.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('0.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('0.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('0.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('0.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 15:35:11 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'Method ActionAction not found in controller App\Controllers\Home'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Action', Array)
+#1 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/action')
+#2 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Controller.php' on line 25
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:12 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/bootstrap/css/bootstrap.min.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/bootstrap/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:12 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/css/plugins.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/css...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:12 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/js/libs/jquery-3.1.1.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/js/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:12 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/bootstrap/js/popper.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/bootstrap/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:12 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/bootstrap/js/bootstrap.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/bootstrap/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:12 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/css/pages/error/style-500.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/css...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:12 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/img/favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/img...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'Method ActionAction not found in controller App\Controllers\Home'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Action', Array)
+#1 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/action')
+#2 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Controller.php' on line 25
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/bootstrap/css/bootstrap.min.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/bootstrap/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/css/pages/error/style-500.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/css...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/js/libs/jquery-3.1.1.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/js/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/bootstrap/js/popper.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/bootstrap/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/css/plugins.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/css...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/bootstrap/js/bootstrap.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/bootstrap/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/img/favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/img...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:32 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (asdfjal;kdsfja;lkds)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('asdfjal;kdsfja;...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:38 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'Method ActionAction not found in controller App\Controllers\Home'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Core\Router.php(54): Core\Controller->__call('Action', Array)
+#1 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/action')
+#2 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Controller.php' on line 25
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:38 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/css/plugins.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/css...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:38 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/bootstrap/css/bootstrap.min.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/bootstrap/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:38 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/js/libs/jquery-3.1.1.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/js/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:39 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/bootstrap/js/popper.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/bootstrap/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:39 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/bootstrap/js/bootstrap.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/bootstrap/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:39 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/css/pages/error/style-500.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/css...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:39 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home/assets/img/favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home/assets/img...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:42 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:47 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:50 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (home)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('home')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:55 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homeadsfa)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:59 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Homeadsfa) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asdfa...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:59 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homeadsfa/bootstrap/css/bootstrap.min.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:59 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homeadsfa/assets/css/plugins.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:35:59 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homeadsfa/assets/css/pages/error/style-500.css)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:36:00 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homeadsfa/assets/js/libs/jquery-3.1.1.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:36:00 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homeadsfa/bootstrap/js/bootstrap.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:36:00 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homeadsfa/bootstrap/js/popper.min.js)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:36:00 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homeadsfa/assets/img/favicon.ico)'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Homeadsfa) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asdfa...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Homeadsfa) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asdfa...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:03 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:04 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:04 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:04 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:04 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:04 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:54 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Homeadsfa) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asdfa...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:54 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:54 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:54 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:54 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:54 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:54 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:54 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:55 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Homeadsfa) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asdfa...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:55 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:55 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:55 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:55 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:55 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:55 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/boots...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:37:55 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'route not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homeadsfa/asset...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:38:56 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Homsdfsd) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/bootstrap/css/bootstrap.min.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/bootst...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/assets/css/plugins.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/assets...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/bootstrap/js/bootstrap.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/bootst...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/assets/css/pages/error/style-500.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/assets...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/assets/js/libs/jquery-3.1.1.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/assets...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/bootstrap/js/popper.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/bootst...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:02 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/assets/img/favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/assets...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:09 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/d) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:09 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/bootstrap/css/bootstrap.min.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:09 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/bootstrap/js/popper.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:09 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/js/libs/jquery-3.1.1.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:09 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/css/pages/error/style-500.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:09 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/css/plugins.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:09 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/bootstrap/js/bootstrap.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:09 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/img/favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:42 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/d) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:42 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/bootstrap/css/bootstrap.min.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:42 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/css/plugins.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:42 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/css/pages/error/style-500.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:42 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/js/libs/jquery-3.1.1.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:42 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/bootstrap/js/bootstrap.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:42 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/bootstrap/js/popper.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:43 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/img/favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:43 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/d) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:43 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/bootstrap/css/bootstrap.min.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:43 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/css/plugins.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:43 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/css/pages/error/style-500.css) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:43 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/bootstrap/js/bootstrap.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:43 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/bootstrap/js/popper.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:43 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/js/libs/jquery-3.1.1.min.js) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:44 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd/adsfa/asdf/asdfa/ad/fa/assets/img/favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd/adsfa/...')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:47 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:49 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (homsdfsd) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('homsdfsd')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 63
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:56 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:57 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:57 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:58 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:58 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:39:59 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 15:40:13 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (index.html) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(24): Core\Router->disPatch('index.html')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 17:14:57 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (logout) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(160): Core\Router->disPatch('logout')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:37:53 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Home) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:37:53 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:37:53 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:37:53 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:19 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url () '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:19 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:20 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:20 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:20 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url () '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:20 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:20 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:20 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:20 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url () '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:20 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:21 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:21 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:26 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Home) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:26 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:26 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:26 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:26 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Home) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:26 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:27 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:27 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:27 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'class (App\Controllers\Home) not found'
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 59
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:27 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:38:27 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(158): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:38:27 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:48:08 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (register) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(159): Core\Router->disPatch('register')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:48:08 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:48:09 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(159): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:48:09 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:58:16 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (register) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(159): Core\Router->disPatch('register')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:58:17 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
+[08-Mar-2023 23:58:19 Europe/Berlin] 
+------------------------------------------------------------------------------------------------------------------------------------------
+Uncaught exception: 'Exception' with message 'no route for this url (favicon.ico) '
+Stack trace: #0 C:\xampp\htdocs\Login_system\Public\index.php(159): Core\Router->disPatch('favicon.ico')
+#1 {main}
+Thrown in 'C:\xampp\htdocs\Login_system\Core\Router.php' on line 62
+-----------------------------------------------------------------------------------------------------------------------------------------
+[08-Mar-2023 23:58:19 Europe/Berlin] PHP Fatal error:  Uncaught Twig\Error\LoaderError: Unable to find template "500.html" (looked into: C:\xampp\htdocs\Login_system/App/Views). in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php:227
+Stack trace:
+#0 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php(131): Twig\Loader\FilesystemLoader->findTemplate('500.html')
+#1 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(264): Twig\Loader\FilesystemLoader->getCacheKey('500.html')
+#2 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(312): Twig\Environment->getTemplateClass('500.html')
+#3 C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Environment.php(280): Twig\Environment->load('500.html')
+#4 C:\xampp\htdocs\Login_system\Core\View.php(35): Twig\Environment->render('500.html', Array)
+#5 C:\xampp\htdocs\Login_system\Core\Error.php(44): Core\View::templateRender('500.html')
+#6 [internal function]: Core\Error::exceptionHandler(Object(Exception))
+#7 {main}
+  thrown in C:\xampp\htdocs\Login_system\vendor\twig\twig\src\Loader\FilesystemLoader.php on line 227
